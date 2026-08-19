@@ -2,7 +2,7 @@ SUGO Pop-up Order Tracker
 
 A lightweight operational tracking and analytics tool designed for pop-up food events.
 
-The application is not a POS system and does not handle payments. SUGO already relies on the POS systems of the restaurants, bars and venues hosting our events. This application was built to solve a different problem: independently tracking what actually leaves our counter and turning that activity into structured, analysable data.
+The application is not a POS system and does not handle payments. SUGO already relies on the POS systems of the restaurants, bars and venues hosting our events. This application was built to solve a different problem: independently tracking products served during each event and turning that activity into structured, analysable data.
 
 Why I Built This
 
